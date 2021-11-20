@@ -3,6 +3,8 @@ html {
 }
 body {
     width: 600px;
+    display: flex;
+    margin: 10px auto;
 }
 h1 {
     text-align: center;
