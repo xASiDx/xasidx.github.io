@@ -1,6 +1,9 @@
 html {
     background-color: beige;
 }
+body {
+    width: 600px;
+}
 h1 {
     text-align: center;
 }
